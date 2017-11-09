@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Hat
+comment1.params=
+comment1.target=Hat()
+comment2.params=lthr\ clr
+comment2.target=Hat(boolean,\ java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getColor()
+comment4.params=
+comment4.target=Hat\ makeHat()
+comment5.params=
+comment5.target=java.lang.String\ toString()
+numComments=6
